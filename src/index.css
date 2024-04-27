@@ -19,6 +19,8 @@ h3 {
   font-size: 2em;
   font-family: Montserrat, sans-serif;
   font-weight: 900;
+  color:palevioletred;
+  
 }
 
 .App {
@@ -56,4 +58,10 @@ article p {
 article h3 {
   color: var(--link);
   margin-bottom: 0rem;
+}
+.article-title {
+  font-size: 2em;
+  font-family: Montserrat, sans-serif;
+  font-weight: 900;
+  color:palevioletred;
 }
